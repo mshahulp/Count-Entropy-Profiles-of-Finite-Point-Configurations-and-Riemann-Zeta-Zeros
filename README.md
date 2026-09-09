@@ -19,7 +19,7 @@ This study investigates the Shannon count entropy of Riemann-zeta zero configura
 ## Repository Structure
 
 ```
-ASW/
+
 ├── README.md                               # This file
 ├── Final_Figures.py                        # Master figure-generation script (Figures 1–5)
 │
