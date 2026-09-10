@@ -225,14 +225,6 @@ python Final_Figures.py
 
 6. **Random seeds**: All random number generation uses `numpy.random.Generator` with explicit `SeedSequence` seeds for full reproducibility.
 
----
-
-## Data Sources
-
-Riemann-zeta zero ordinate tables are from:
-
-> Andrew M. Odlyzko, *Tables of zeros of the Riemann zeta function*
-> https://www-users.cse.umn.edu/~odlyzko/zeta_tables/
 
 ---
 
