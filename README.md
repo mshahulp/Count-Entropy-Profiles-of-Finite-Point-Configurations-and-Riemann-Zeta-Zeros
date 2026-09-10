@@ -200,7 +200,7 @@ python Run\ code/gap_shuffled_surrogates.py \
     --robustness-block-dir zeta_lowheight_robustness/blocks \
     --original-profiles zeta_entropy_results/zeta_count_entropy_profiles.csv
 
-# Stage 6: Entropy-number-variance analysis
+# Stage 6: Entropy number variance analysis
 python Run\ code/entropy_number_variance_analysis.py \
     --profiles zeta_entropy_results/zeta_count_entropy_profiles.csv \
     --pmf zeta_entropy_results/zeta_count_pmf_sparse.csv
